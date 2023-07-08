@@ -15,6 +15,7 @@
 -  I'm a Software Engineer.
 -  As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 -  Student at Faculty of Computers and Artificial Intelligence Cairo University, Currently enrolled in bachelor's (2022 - 2026).
+-  My <a href="https://codeforces.com/profile/Dark-Ness">Codeforces Profile&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" width="21"></a>
 
 
 
@@ -22,9 +23,8 @@
 
 <a href="https://www.linkedin.com/in/mohamed-ahmed-196681249/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelhady-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
 <a href="mailto:mohamedabdelhady9937@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelhady-318ce7?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
-<!--<a href="https://www.quora.com/profile/Mohamed-Abdelhady-105/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelhady-FF6D60?style=for-the-badge&logo=Quora&logoColor=white"/> </a>-->
-<a href="https://codeforces.com/profile/Dark-Ness" target="_blank"><img src="https://codeforces.org/s/12580/images/codeforces-sponsored-by-ton.png" width="121"/></a>
-### 🛠 &nbsp;Tech Stack
+<a href="https://www.quora.com/profile/Mohamed-Abdelhady-105/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelhady-FF6D60?style=for-the-badge&logo=Quora&logoColor=white"/> </a>
+
 ![CPP](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-black?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
