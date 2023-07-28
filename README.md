@@ -26,6 +26,7 @@
 <a href="https://www.quora.com/profile/Mohamed-Abdelhady-105/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelhady-FF6D60?style=for-the-badge&logo=Quora&logoColor=white"/> </a>
 
 ![CPP](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat)&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c%2B%2B&style=flat)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-black?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
